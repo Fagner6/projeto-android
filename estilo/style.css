@@ -31,7 +31,7 @@ body {
 
 header {
    background-image: linear-gradient(to bottom, #2fa866, #063d1e );
-    min-height: 180px;
+    min-height: 130px;
     text-align: center;
     padding-top: 40px;
 }
